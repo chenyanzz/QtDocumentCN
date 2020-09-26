@@ -7,19 +7,26 @@
 [![CC BY-NC-ND 4.0](https://creativecommons.org/images/deed/svg/cc_blue.svg)](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh)
 [![署名](https://creativecommons.org/images/deed/svg/attribution_icon_blue.svg)](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh)
 [![非商业性使用](https://creativecommons.org/images/deed/svg/nc_blue.svg)](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh)
-[![没有附加限制](https://creativecommons.org/images/deed/svg/nd_blue.svg)](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh)
+[![禁止演绎](https://creativecommons.org/images/deed/svg/nd_blue.svg)](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh)
 
 本项目为翻译 Qt 官方文档，内容基于 Qt 最新发布版本 5.15，采用 [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh) 协议发布。
 
 ## 微信小程序
 ![WeDoc](Logo/weqt.jpg)
 
+
+
 ## 参与编写
+
 关于本项目的目录结构、文件管理、格式规范等，详见[贡献指南](CONTRIBUTING.md)。
 
 [完成度追踪表](completeness_tracking.md)，用于追踪待完成或有待进一步维护的文档状态。
 
 辅助中文文档编写的脚本和工具，详见[辅助工具](https://github.com/QtDocumentCN/Tools)。
+
+技术词汇的翻译可参考 [词汇对照表](Comparison_Table.md)。
+
+关于如何将英文文档信达雅地翻译为中文技术文档，可参考 [语法小贴士](Gramma_Tips.md)。
 
 
 
@@ -55,3 +62,5 @@
 | 捐助人                                 | 捐助金额 |
 | -------------------------------------- | -------- |
 | [吴冬亮](https://github.com/abc881858) | 200￥    |
+| 匿名Z | 100￥|
+| 赵江涛| 50￥|
