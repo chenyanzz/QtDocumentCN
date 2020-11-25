@@ -17,13 +17,14 @@
 | [QAbstractAudioInput](Src/A/QAbstractAudioInput/QAbstractAudioInput.md) | [CryFeiFei](https://github.com/CryFeiFei)     | **待完善** | see also部分待添加链接             |
 | [QAbstractAnimation](Src/A/QAbstractAnimation/QAbstractAnimation.md) | [CryFeiFei](https://github.com/CryFeiFei)     | **待完善** | see also部分待添加链接             |
 | [QAbstractItemModel](Src/A/QAbstractItemModel/QAbstractItemModel.md) | [FlyWM](https://github.com/FlyWM)             | **待完善** | 待完善跳转链接 |
+| [QAbstractItemView](Src/A/QAbstractItemView/QAbstractItemView.md) | [chenjiqing](https://github.com/chenjiqing) | 编写中 | 完成链接，开始翻译 |
 | [QAbstractSocket](Src/A/QAbstractSocket/QAbstractSocket.md) | [skykeyjoker](https://github.com/skykeyjoker) | **待完善** | 跨页跳转需待对应页面完成后进行校正 |
 | **B** |  |  |  |
 | **C** |  |  |  |
 | [Container Classes](Src/C/Container_Classes/Container_Classes.md) | [xyz1001](https://github.com/xyz1001) | **已完成** | 已完成 |
 | [QCheckBox](Src/C/QCheckBox/QCheckBox.md) | [leytou](https://github.com/leytou) | 编写中 | 占位中，待填充，截止时间2020-07-31 |
 | [QComboBox](Src/C/QComboBox/QComboBox.md) | [leytou](https://github.com/leytou) | 编写中 | 占位中，待填充，截止时间2020-07-31 |
-| [QCoreApplication](Src/C/QCoreApplication/QCoreApplication.md) | [froser](https://github.com/froser) | 编写中 | 占位中，待填充，截止时间2020-09-15 |
+| [QCoreApplication](Src/C/QCoreApplication/QCoreApplication.md) | [froser](https://github.com/froser) | **待完善** | 跨页跳转需待对应页面完成后进行校正 |
 | **D** |  |  |  |
 | [QDate](Src/D/QDate/QDate.md) | [顾晓](https://github.com/chenyanzz) | **待完善** | 跨页跳转需待对应页面完成后进行校正 |
 | **E** |  |  |  |
@@ -35,6 +36,11 @@
 | [QGenericArgument](Src/G/QGenericArgument/QGenericArgument.md) | [ZgblKylin](https://github.com/ZgblKylin) | **待完善** | 跨页跳转需待对应页面完成后进行校正 |
 | [QGenericReturnArgument](Src/G/QGenericReturnArgument/QGenericReturnArgument.md) | [ZgblKylin](https://github.com/ZgblKylin) | **待完善** | 跨页跳转需待对应页面完成后进行校正 |
 | **H** |  |  |  |
+| [QHash](Src/H/QHash/QHash.md) | [chenjiqing](https://github.com/chenjiqing) | **待完善** |  |
+| [QHash::const_iterator](Src/H/QHash/QHash-const-iterator.md) | [chenjiqing](https://github.com/chenjiqing) | **待完善** |  |
+| [QHash::iterator](Src/H/QHash/QHash-iterator.md) | [chenjiqing](https://github.com/chenjiqing) | **待完善** |  |
+| [QHash::key_iterator](Src/H/QHash/QHash-key-iterator.md) | [chenjiqing](https://github.com/chenjiqing) | **待完善** |  |
+| [QHashIterator](Src/H/QHashIterator/QHashIterator.md) | [chenjiqing](https://github.com/chenjiqing) | **待完善** |  |
 | **I** |  |  |  |
 | [QIODevice](Src/I/QIODevice/QIODevice.md) | [skykeyjoker](https://github.com/skykeyjoker) | 编写中 | 占位中，待填充，截止时间2020-10-31 |
 | **J** |  |  |  |
@@ -44,6 +50,7 @@
 | [QJsonParseError](Src/J/QJsonParseError/QJsonParseError.md) | [ruihuanming](https://github.com/hqwx2018) | **待完善** | 缺跳转 |
 | [QJsonValue](Src/J/QJsonValue/QJsonValue.md) | [ruihuanming](https://github.com/hqwx2018) | 占位中 | 占位中，待填充，截止时间2020-08-15 |
 | **K** |  |  |  |
+| [QKeyValueIterator](Src/K/QKeyValueIterator/QKeyValueIterator.md) | [chenjiqing](https://github.com/chenjiqing) | **待完善** |  |
 | **L** |  |  |  |
 | [QLabel](Src/L/QLabel/QLabel.md) | [leytou](https://github.com/leytou) | 编写中 | 占位中，待填充，截止时间2020-07-31 |
 | [QLibrary](Src/L/QLibrary/QLibrary.md) | [顾晓](https://github.com/chenyanzz) | **待完善** | 跨页跳转需待对应页面完成后进行校正 |
@@ -51,12 +58,21 @@
 | [QList::iterator](Src/L/QList/QList_Iterator.md) | [xyz1001](https://github.com/xyz1001) | 编写中 | 占位中，待填充，截止时间2020-07-31 |
 | [QList::const_iterator](Src/L/QList/QList_Const_Iterator.md) | [xyz1001](https://github.com/xyz1001) | 编写中 | 占位中，待填充，截止时间2020-07-31 |
 | **M** |  |  |  |
+| [QMap](Src/M/QMap/QMap.md) | [chenjiqing](https://github.com/chenjiqing) | **待完善** |  |
+| [QMap::const_iterator](Src/M/QMap/QMap-const-iterator.md) | [chenjiqing](https://github.com/chenjiqing) | **待完善** |  |
+| [QMap::iterator](Src/M/QMap/QMap-iterator.md) | [chenjiqing](https://github.com/chenjiqing) | **待完善** |  |
+| [QMap::key_iterator](Src/M/QMap/QMap-key-iterator.md) | [chenjiqing](https://github.com/chenjiqing) | **待完善** |  |
+| [QMapIterator](Src/M/QMapIterator/QMapIterator.md) | [chenjiqing](https://github.com/chenjiqing) | **待完善** |  |
 | [QMetaClassInfo](Src/M/QMetaClassInfo/QMetaClassInfo.md) | [ZgblKylin](https://github.com/ZgblKylin) | **待完善** | 跨页跳转需待对应页面完成后进行校正 |
 | [QMetaMethod](Src/M/QMetaMethod/QMetaMethod.md) | [ZgblKylin](https://github.com/ZgblKylin) | **待完善** | 跨页跳转需待对应页面完成后进行校正 |
 | [QMetaObject](Src/M/QMetaObject/QMetaObject.md) | [ZgblKylin](https://github.com/ZgblKylin) | **待完善** | 跨页跳转需待对应页面完成后进行校正 |
 | [QMetaObject::Connection](M/QMetaObject/Connection.md)       | [ZgblKylin](https://github.com/ZgblKylin)     | **待完善** | 跨页跳转需待对应页面完成后进行校正 |
 | [QMetaProperty](../../M/QMetaProperty/QMetaProperty.md)      | [ZgblKylin](https://github.com/ZgblKylin)     | **待完善** | 跨页跳转需待对应页面完成后进行校正 |
 | [QMetaType](Src/M/QMetaType/QMetaType.md)                    | [ZgblKylin](https://github.com/ZgblKylin)     | **待完善** | 跨页跳转需待对应页面完成后进行校正 |
+| [QMultiHash](Src/M/QMultiHash/QMultiHash.md) | [chenjiqing](https://github.com/chenjiqing) | **待完善** |  |
+| [QMultiMap](Src/M/QMultiMap/QMultiMap.md) | [chenjiqing](https://github.com/chenjiqing) | **待完善** |                                    |
+| [QMutableHashIterator](Src/M/QMutableHashIterator/QMutableHashIterator.md) | [chenjiqing](https://github.com/chenjiqing) | **待完善** |                  |
+| [QMutableMapIterator](Src/M/QMutableMapIterator/QMutableMapIterator.md) | [chenjiqing](https://github.com/chenjiqing) | **待完善** |                  |
 | [QMutex](Src/M/QMutex/QMutex.md)                             | [Ryan-rlm](https://github.com/Ryan-rlm)       | **已完成** | 已完成                             |
 | [QMutexLocker](Src/M/QMutexLocker/QMutexLocker.md)           | [Ryan-rlm](https://github.com/Ryan-rlm)       | **已完成** | 已完成                             |
 | [Why Does Qt use Moc for Signals and Slots](Src/M/Why_Does_Qt_Use_Moc_for_Signals_and_Slots/Why_Does_Qt_Use_Moc_for_Signals_and_Slots.md) | [ZgblKylin](https://github.com/ZgblKylin)     | **待完善** | 跨页跳转需待对应页面完成后进行校正 |
@@ -80,11 +96,14 @@
 | [Qt Namespace](Src/Q/Qt_Namespace/Qt_Namespace.md) | [ZgblKylin](https://github.com/ZgblKylin) | 编写中 | 占位中，待填充，截止时间2020-08-31 |
 | [Qt Overviews](Src/Q/Qt_Overviews/Qt_Overviews.md) | [ZgblKylin](https://github.com/ZgblKylin) | **待完善** | 跨页跳转需待对应页面完成后进行校正 |
 | **R** |  |  |  |
+| [QReadLocker](Src/R/QReadLocker/QReadLocker.md)              | [Ryan-rlm](https://github.com/Ryan-rlm)       | **已完成** | 已完成 |
+| [QReadWriteLock](Src/R/QReadWriteLock/QReadWriteLock.md)     | [Ryan-rlm](https://github.com/Ryan-rlm)       | **已完成** | 已完成 |
+| [QRecursiveMutex](Src/R/QRecursiveMutex/QRecursiveMutex.md)  | [Ryan-rlm](https://github.com/Ryan-rlm)       | **已完成** | 已完成 |
 | [Resource Compiler(rcc)](Src/R/Resource_Compiler_rcc/Resource_Compiler_rcc.md) | [ZgblKylin](https://github.com/ZgblKylin) | **待完善** | 跨页跳转需待对应页面完成后进行校正 |
 | [The Qt Resource System](Src/R/The_Qt_Resource_System/The_Qt_Resource_System.md) | [ZgblKylin](https://github.com/ZgblKylin) | **待完善** | 跨页跳转需待对应页面完成后进行校正 |
 | [Reentrancy and Thread-Safety](Src/R/Reentrancy_and_Thread-Safety/Reentrancy_and_Thread-Safety.md) | [ZgblKylin](https://github.com/ZgblKylin) | 编写中 | 占位中，待填充，截止时间2020-08-31 |
 | **S** |  |  |  |
-| [QSemaphore](Src/S/QSemaphore/QSemaphore.md) | [Ryan-rlm](https://github.com/Ryan-rlm) | **已完成** | 已完成 |
+| [QSemaphore](Src/S/QSemaphore/QSemaphore.md)                 | [Ryan-rlm](https://github.com/Ryan-rlm)       | **已完成** | 已完成 |
 | [QSctpServer](Src/S/QSctpServer/QSctpServer.md)              | [skykeyjoker](https://github.com/skykeyjoker) | **待完善** | 跨页跳转需待对应页面完成后进行校正 |
 | [QSctpSocket](Src/S/QSctpSocket/QSctpSocket.md)              | [skykeyjoker](https://github.com/skykeyjoker) | **待完善** | 跨页跳转需待对应页面完成后进行校正 |
 | [QSql](Src/S/QSql/QSql.md)                                   | [JackLovel](https://github.com/JackLovel)     | **已完成** |     已完成                  |
@@ -102,6 +121,7 @@
 | [QSslSocket](Src/S/QSslSocket/QSslSocket.md)                 | [skykeyjoker](https://github.com/skykeyjoker) | 编写中    | 编写中 |
 | [QStyledItemDelegate](Src/S/QStyledItemDelegate/QStyledItemDelegate.md) | [yougoup](https://github.com/yougoup) | 编写中 | 截止时间2020-08-15 |
 | [QSslSocket_Obsolete](Src/S/QSslSocket_Obsolete/QSslSocket_Obsolete.md) | [skykeyjoker](https://github.com/skykeyjoker) | 编写中 | 编写中 |
+| [Synchronizing Threads]() | [ACRL](https://github.com/AngryAccelerated) | **待完善** | 跨页跳转需待对应页面完成后进行校正 |
 | **T** |  |  |  |
 | [QTransform](Src/T/QTransform) | [CryFeiFei](https://github.com/CryFeiFei) | 编写中 | 占位中，待填充，截止时间2020-09-30 |
 | [QTcpSocket](Src/T/QTcpSocket/QTcpSocket.md)                 | [skykeyjoker](https://github.com/skykeyjoker) | **待完善** | 跨页跳转需待对应页面完成后进行校正 |
@@ -112,9 +132,11 @@
 | **V** |  |  |  |
 | [QVariant](Src/V/QVariant/QVariant.md) | [ZgblKylin](https://github.com/ZgblKylin) | 编写中 | 占位中，待填充，截止时间2020-08-31 |
 | **W** |  |  |  |
+| [QWaitCondition](Src/W/QWaitCondition/QWaitCondition.md)           | [Ryan-rlm](https://github.com/Ryan-rlm)       | **已完成** | 已完成 |
 | [QWebEngineView](Src/W/QWebEngineView/QWebEngineView.md) | [ruihuanming](https://github.com/hqwx2018) | **待完善** | 已完成 |
 | [QWebEngineHistory](Src/W/QWebEngineHistory/QWebEngineHistory.md) | [ruihuanming](https://github.com/hqwx2018) | **待完善** | 已完成 |
 | [QWebEngineHistoryItem](Src/W/QWebEngineHistoryItem/QWebEngineHistoryItem.md) | [ruihuanming](https://github.com/hqwx2018) | **待完善** | 已完成 |
+| [QWriteLocker](Src/W/QWriteLocker/QWriteLocker.md)           | [Ryan-rlm](https://github.com/Ryan-rlm)       | **已完成** | 已完成 |
 | **X** |  |  |  |
 | [QX11Info](Src/X/QX11Info/QX11Info.md) | [CryFeiFei](https://github.com/CryFeiFei) | **待完善** | see also跳转待补充 |
 | **Y** |  |  |  |
